@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="400"/>
   
   <div id="badges">
-    <a href="">
+    <a href="https://www.linkedin.com/in/drbarzaga/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="">
+    <a href="https://dayanperez.hashnode.dev/">
       <img src="https://img.shields.io/badge/Personal Blog-orange?style=for-the-badge&logo=javascript&logoColor=white" alt="Personal Blog Badge"/>
     </a>
   </div>
@@ -17,7 +17,7 @@
 </h1>
 </div>
 
-## 👨🏼‍💻 About me
+### 👨🏼‍💻 About me
 
 ##### I'm a Software Engineer with 9+ years of experience. I've extensive knowledge of different technologies and programming languages. I've skills in Web Development, Databases, and Agile Methodologies. I'm constantly looking to explore new technologies and new opportunities to learn.
 
