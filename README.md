@@ -25,6 +25,7 @@
 ##### Backend: NodeJS, Laravel.
 ##### General: Git, Npm, Yarn, SQL, MySQL, Rest API, Payment Gateways.
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>  
@@ -42,6 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=drbarzaga&theme=vue-dark)](https://git.io/streak-stats)
