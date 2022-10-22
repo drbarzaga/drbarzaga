@@ -55,8 +55,8 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [5 React Libraries you should know](https://dayanperez.hashnode.dev/5-react-libraries-you-should-know)
 - [JavaScript - One-time function](https://dayanperez.hashnode.dev/javascript-one-time-function)
 - [JavaScript - Min and Max values from an Array of Numbers](https://dayanperez.hashnode.dev/javascript-min-and-max-values-from-an-array-of-numbers)
 - [JavaScript - Sum values from an Array](https://dayanperez.hashnode.dev/javascript-sum-values-from-an-array)
-- [JavaScript - Get  a Random item from an Array](https://dayanperez.hashnode.dev/javascript-get-a-random-item-from-an-array)
 <!-- BLOG-POST-LIST:END -->
