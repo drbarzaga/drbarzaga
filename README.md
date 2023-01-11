@@ -22,7 +22,7 @@
 ##### I'm a Software Engineer with 9+ years of experience. I've extensive knowledge of different technologies and programming languages. I've skills in Web Development, Databases, and Agile Methodologies. I'm constantly looking to explore new technologies and new opportunities to learn.
 
 ##### Frontend: JavaScript, TypeScript, CSS, HTML, ReactJs, VueJs, Redux, Recoil, Styled-Components, GraphQL.
-##### Backend: NodeJS, Laravel.
+##### Backend: NestJs, NodeJS, Laravel.
 ##### General: Git, Npm, Yarn, SQL, MySQL, Rest API, Payment Gateways.
 
 ---
@@ -30,7 +30,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs" alt="VueJs" width="40" height="40"/>&nbsp;          
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs" alt="VueJs" width="40" height="40"/>&nbsp;       <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg" title="NestJs" **alt="NestJs" width="40" height="40"/>   
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
