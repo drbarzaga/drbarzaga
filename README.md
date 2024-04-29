@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=drbarzaga&style=for-the-badge&color=blue" alt=""/>
   
   <h1>
-  hey there
+  Hey I'm Dayan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
