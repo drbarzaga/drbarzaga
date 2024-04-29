@@ -19,11 +19,11 @@
 
 ### :man_technologist: About me
 
-##### I'm a Software Engineer with 9+ years of experience. I've extensive knowledge of different technologies and programming languages. I've skills in Web Development, Databases, and Agile Methodologies. I'm constantly looking to explore new technologies and new opportunities to learn.
+I’m Dayan Perez, a software engineer and frontend developer based in Montevideo, Uruguay. I’m passionate about building software that improves people’s lives. I specialize in building performant and accessible web applications.
 
-##### Frontend: JavaScript, TypeScript, CSS, HTML, ReactJs, VueJs, Redux, Recoil, Styled-Components, GraphQL.
-##### Backend: NestJs, NodeJS, Laravel.
-##### General: Git, Npm, Yarn, SQL, MySQL, Rest API, Payment Gateways.
+- `Frontend`: JavaScript, TypeScript, CSS, HTML, ReactJs, VueJs, Redux, Recoil, Styled-Components, GraphQL.
+- `Backend`: NestJs, NodeJS, Laravel.
+- `General`: Git, Npm, Yarn, SQL, MySQL, Rest API, Payment Gateways.
 
 ---
 
