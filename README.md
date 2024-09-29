@@ -52,11 +52,3 @@ I’m Dayan Perez, a software engineer and frontend developer based in Montevide
 [![Dayan GitHub stats](https://github-readme-stats.vercel.app/api?username=drbarzaga)](https://github.com/drbarzaga/github-readme-stats)
 
 ---
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [5 React Libraries you should know](https://dayanperez.hashnode.dev/5-react-libraries-you-should-know)
-- [JavaScript - One-time function](https://dayanperez.hashnode.dev/javascript-one-time-function)
-- [JavaScript - Min and Max values from an Array of Numbers](https://dayanperez.hashnode.dev/javascript-min-and-max-values-from-an-array-of-numbers)
-- [JavaScript - Sum values from an Array](https://dayanperez.hashnode.dev/javascript-sum-values-from-an-array)
-<!-- BLOG-POST-LIST:END -->
