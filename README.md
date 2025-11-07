@@ -83,7 +83,7 @@ I'm **Dayan Perez**, a passionate software engineer and frontend developer from 
 ### ☕ Support My Work
 
 <div align="center">
-  <p>If you like what I do and want to support my work, you can buy me a coffee! 💖</p>
+  <p>If you enjoy my projects or find my content helpful, consider supporting me — it keeps me coding more awesome stuff! 💛</p>
   <a href="https://www.buymeacoffee.com/dayanperez" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" />
   </a>
