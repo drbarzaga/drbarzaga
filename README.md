@@ -120,9 +120,3 @@ I'm **Dayan Perez**, a passionate software engineer and frontend developer from 
   </a>
   
 </div>
-
----
-
-<div align="center">
- 💡 "Code is like humor. When you have to explain it, it's bad."  
-</div>
