@@ -59,7 +59,6 @@ I'm **Dayan Perez**, a passionate software engineer and frontend developer from 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/bear.jpg" title="Zustand" alt="Zustand" width="60" height="60" style="border-radius: 8px; object-fit: cover;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://ui.shadcn.com/favicon.ico" title="shadcn/ui" alt="shadcn/ui" width="60" height="60"/>&nbsp;
