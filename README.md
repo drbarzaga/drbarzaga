@@ -1,30 +1,27 @@
 <div align="center">
-  
   <h1>
     Hi there, I'm Dayan
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/>
   </h1>
   <h2>Software Engineer & Frontend Developer</h2>
   <p>📍 Based in Montevideo, Uruguay</p>
-  
-  <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/drbarzaga/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://dayanperez.hashnode.dev/">
-      <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Personal Blog Badge"/>
-    </a>
-    <a href="https://github.com/drbarzaga">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-  </div>  
-  <div align="center" style="margin-top: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=drbarzaga&style=for-the-badge&color=blue" alt="Profile views"/>
-  </div>
-  
-  <img src="https://readme-typing-svg.vercel.app/?lines=Turning+ideas+into+reality+with+code;Creating+beautiful+and+functional+web+apps;Always+learning+and+improving+my+skills&font=Fira%20Code&center=true&width=800&height=80&size=30&duration=3000&pause=1000" alt="Typing SVG" />
-  
+
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/drbarzaga/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://dayanperez.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog Badge"/>
+  </a>
+  <a href="https://github.com/drbarzaga">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=drbarzaga&style=for-the-badge&color=blue" alt="Profile views"/>
+
+  <img src="https://readme-typing-svg.vercel.app/?lines=Turning+ideas+into+reality+with+code;Creating+beautiful+and+functional+web+apps;Always+learning+and+improving+my+skills&font=Fira%20Code&center=true&width=800&height=80&size=30&duration=3000&pause=1000" alt="Typing SVG"/>
 </div>
+
 
 ---
 
