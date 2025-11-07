@@ -42,7 +42,7 @@ I'm **Dayan Perez**, a passionate software engineer and frontend developer from 
 
 - 🎨 **Frontend Development** - Building responsive and interactive user interfaces
 - ⚛️ **React & Next.js** - Creating modern single-page applications and server-rendered apps
-- 🔧 **Full-Stack Development** - Working with Node.js for backend solutions
+- 🔧 **Full-Stack Development** - Working with NextJs for fullstack solutions
 - 🗄️ **Database Design** - Working with Neon (serverless PostgreSQL) and PostgreSQL
 - 📱 **Responsive Design** - Ensuring applications work seamlessly across all devices
 
@@ -70,49 +70,4 @@ I'm **Dayan Perez**, a passionate software engineer and frontend developer from 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=drbarzaga&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
-  
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-  <a href="https://github.com/drbarzaga/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=drbarzaga" alt="Dayan GitHub stats" style="display: inline-block; margin-right: 10px;" />
-  </a>
-  <img src="https://streak-stats.demolab.com?user=drbarzaga&theme=vue-dark" alt="GitHub Streak" style="display: inline-block;" />
-  
-</div>
-
----
-
-### 📈 Contribution Graph
-<div align="center">
-  
-  [![Dayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drbarzaga&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
-
-### 🌟 Featured Projects
-
-<div align="center">
-  
-  <a href="https://github.com/drbarzaga/goalwave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drbarzaga&repo=goalwave&theme=vue-dark" style="display: inline-block; margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/drbarzaga/taskero">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drbarzaga&repo=taskero&theme=vue-dark" style="display: inline-block;" />
-  </a>
-  
 </div>
