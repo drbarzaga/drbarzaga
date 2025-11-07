@@ -1,9 +1,14 @@
 <div align="center">
-  <h1>
+
+  <p style="font-size: 2.5em; font-weight: bold;">
     Hi there, I'm Dayan
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/>
-  </h1>
-  <h2>Software Engineer & Frontend Developer</h2>
+  </p>
+
+  <p style="font-size: 1.5em; color: gray; margin-top: -10px;">
+    Software Engineer & Frontend Developer
+  </p>
+
   <p>📍 Based in Montevideo, Uruguay</p>
 
   <!-- Social Badges -->
@@ -16,11 +21,11 @@
   <a href="https://github.com/drbarzaga">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-
   <img src="https://komarev.com/ghpvc/?username=drbarzaga&style=for-the-badge&color=blue" alt="Profile views"/>
-
   <img src="https://readme-typing-svg.vercel.app/?lines=Turning+ideas+into+reality+with+code;Creating+beautiful+and+functional+web+apps;Always+learning+and+improving+my+skills&font=Fira%20Code&center=true&width=800&height=80&size=30&duration=3000&pause=1000" alt="Typing SVG"/>
+
 </div>
+
 
 
 ---
