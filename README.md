@@ -99,9 +99,6 @@ I'm **Dayan Perez**, a passionate software engineer and frontend developer from 
 ---
 
 ### 📈 Contribution Graph
-
-**Opción 2 - GitHub Compact:**
-
 <div align="center">
   
   [![Dayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drbarzaga&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
