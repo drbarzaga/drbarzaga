@@ -91,7 +91,16 @@ I'm **Dayan Perez**, a passionate software engineer and frontend developer from 
 
 <div align="center">
   <p>If you enjoy my projects or find my content helpful, consider supporting me — it keeps me coding more awesome stuff! 💛</p>
+  
   <a href="https://www.buymeacoffee.com/dayanperez" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
   </a>
+
+  <br/><br/>
+
+  <img src="https://cdn.buymeacoffee.com/assets/img/home-page-v3/bmc_qr.png" alt="Buy Me a Coffee QR" width="150" style="border-radius: 10px; margin-top: 10px;" />
+  
+  <p style="font-size: 0.9em; color: gray;">Scan the QR to support directly 💛</p>
 </div>
+
+<p align="center"><i>“Building the web, one pixel at a time.”</i></p>
