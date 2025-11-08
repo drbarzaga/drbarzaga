@@ -32,17 +32,21 @@
 
 ### 👨‍💻 About Me
 
-I'm **Dayan Perez**, a passionate software engineer and frontend developer from Montevideo, Uruguay. I love building software that makes a positive impact on people's lives. My focus is on creating performant, accessible, and user-friendly web applications.
+I'm **Dayan Perez**, a software engineer and frontend developer from Montevideo, Uruguay. I specialize in turning complex problems into clean, efficient, and user-friendly web applications.
+
+I’m passionate about modern web technologies, building performant and accessible software, and continuously improving my skills. I enjoy crafting experiences that are not only functional but also elegant and enjoyable to use.
+
+When I’m not coding, I love learning new frameworks, exploring design patterns, and sharing knowledge through my blog. My goal is to create software that has a positive impact and makes everyday life easier for people.
 
 ---
 
 ### 💼 What I Do
 
-- 🎨 **Frontend Development** - Building responsive and interactive user interfaces  
-- ⚛️ **React & Next.js** - Creating modern single-page applications and server-rendered apps  
-- 🔧 **Full-Stack Development** - Working with NextJs for fullstack solutions  
-- 🗄️ **Database Design** - Working with Neon (serverless PostgreSQL) and PostgreSQL  
-- 📱 **Responsive Design** - Ensuring applications work seamlessly across all devices  
+- 🎨 **Frontend Development** – Crafting interactive, responsive, and visually appealing web interfaces.
+- ⚛️ **React & Next.js** – Building modern SPAs and server-rendered applications with best practices.
+- 🔧 **Full-Stack Development** – Integrating frontend and backend seamlessly using Next.js and Node.js.
+- 🗄️ **Database & Cloud** – Designing scalable schemas and working with PostgreSQL, Neon, and serverless solutions.
+- 📱 **Responsive & Accessible Design** – Ensuring your apps look great and work perfectly across devices.
 
 ---
 
