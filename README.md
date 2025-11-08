@@ -22,11 +22,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=drbarzaga&style=for-the-badge&color=blue" alt="Profile views"/>
-  <img src="https://readme-typing-svg.vercel.app/?lines=Turning+ideas+into+reality+with+code;Creating+beautiful+and+functional+web+apps;Always+learning+and+improving+my+skills&font=Cascadia%20Code&center=true&width=800&height=80&size=25&duration=5000&pause=1000" alt="Typing SVG"/>
-
+  <img src="https://readme-typing-svg.vercel.app/?lines=%3E+Turning+ideas+into+reality+with+code;%3E+Creating+beautiful+and+functional+web+apps;%3E+Always+learning+and+improving+my+skills&font=Cascadia%20Code&center=true&width=800&height=80&size=25&duration=3500&pause=1000&color=B794F4&background=00000000" alt="Typing SVG"/>
 </div>
-
-
 
 ---
 
