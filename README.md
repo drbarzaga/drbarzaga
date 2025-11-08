@@ -80,9 +80,9 @@ I'm **Dayan Perez**, a passionate software engineer and frontend developer from 
 
 ---
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drbarzaga&theme=dark&show_icons=true&count_private=true" alt="drbarzaga" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drbarzaga&theme=dark&layout=compact&show_icons=true&langs_count=20&count_private=true" alt="drbarzaga" /> 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=drbarzaga&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=drbarzaga&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
