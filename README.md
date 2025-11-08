@@ -34,12 +34,6 @@
 
 I'm **Dayan Perez**, a passionate software engineer and frontend developer from Montevideo, Uruguay. I love building software that makes a positive impact on people's lives. My focus is on creating performant, accessible, and user-friendly web applications.
 
-- 🔭 I'm currently working on **Goalwave** - a modern financial goal tracker  
-- 🌱 I'm always learning new technologies and best practices  
-- 💬 Ask me about **React**, **TypeScript**, **Next.js**, or **Frontend Development**  
-- 📝 I write articles on [my blog](https://dayanperez.hashnode.dev/)  
-- ⚡ Fun fact: I enjoy turning complex problems into simple, elegant solutions  
-
 ---
 
 ### 💼 What I Do
