@@ -1,97 +1,27 @@
-<div align="center">
+# Hi there, I'm Dayan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/>
 
-  <p style="font-size: 2.5em; font-weight: bold;">
-    Hi there, I'm Dayan
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/>
-  </p>
-
-  <p style="font-size: 1.5em; color: gray; margin-top: -10px;">
-    Software Engineer & Frontend Developer
-  </p>
-
-  <p>📍 Based in Montevideo, Uruguay</p>
-
-  <!-- Social Badges -->
-  <a href="https://www.linkedin.com/in/drbarzaga/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://dayanperez.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog Badge"/>
-  </a>
-  <a href="https://github.com/drbarzaga">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=drbarzaga&style=for-the-badge&color=blue" alt="Profile views"/>
-  <img src="https://readme-typing-svg.vercel.app/?lines=%3E+Turning+ideas+into+reality+with+code;%3E+Creating+beautiful+and+functional+web+apps;%3E+Always+learning+and+improving+my+skills&font=Cascadia%20Code&center=true&width=800&height=80&size=25&duration=3500&pause=1000&color=B794F4&background=00000000" alt="Typing SVG"/>
-</div>
+- 👨‍💻 I am a Software Engineer & Frontend Developer.
+- 🚀 I build web apps with React and Next.js — clean code, good UX, always learning. I like minimalism and sharing what I learn.
+- 📌 I'm based in Montevideo, Uruguay 🇺🇾
+- ⭐ Read more about me on my [Website](https://dayanperez.com)
 
 ---
 
-### 👨‍💻 About Me
+### 💻 Stack
 
-I'm **Dayan Perez**, a software engineer and frontend developer from Montevideo, Uruguay. I specialize in turning complex problems into clean, efficient, and user-friendly web applications.
-
-I’m passionate about modern web technologies, building performant and accessible software, and continuously improving my skills. I enjoy crafting experiences that are not only functional but also elegant and enjoyable to use.
-
-When I’m not coding, I love learning new frameworks, exploring design patterns, and sharing knowledge through my blog. My goal is to create software that has a positive impact and makes everyday life easier for people.
+JavaScript · TypeScript · HTML · CSS · React · Next.js · Shadcn · Tailwind · Drizzle · Neon · Better Auth · Resend · React Emails · PostgreSQL
 
 ---
 
-### 💼 What I Do
+### Connect with me
 
-- 🎨 **Frontend Development** – Crafting interactive, responsive, and visually appealing web interfaces.
-- ⚛️ **React & Next.js** – Building modern SPAs and server-rendered applications with best practices.
-- 🔧 **Full-Stack Development** – Integrating frontend and backend seamlessly using Next.js and Node.js.
-- 🗄️ **Database & Cloud** – Designing scalable schemas and working with PostgreSQL, Neon, and serverless solutions.
-- 📱 **Responsive & Accessible Design** – Ensuring your apps look great and work perfectly across devices.
-
----
-
-### 📧 Contact
-
-- 📫 **Email**: [dayan.perez9012@gmail.com](mailto:dayan.perez9012@gmail.com)  
-- 💼 **LinkedIn**: [drbarzaga](https://www.linkedin.com/in/drbarzaga/)  
-- 🐙 **GitHub**: [drbarzaga](https://github.com/drbarzaga)  
-
----
-
-### 🛠️ Languages and Tools
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dayandev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drbarzaga)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayan.perez9012@gmial.com)
+<img src="https://komarev.com/ghpvc/?username=drbarzaga&style=for-the-badge&color=blue" alt="Profile views"/>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
-  <img src="https://ui.shadcn.com/favicon.ico" title="shadcn/ui" alt="shadcn/ui" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
-  <img src="https://www.cursor.com/favicon.ico" title="Cursor" alt="Cursor" width="60" height="60"/>&nbsp;
-  <img src="https://neon.tech/favicon.ico" title="Neon" alt="Neon" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-</div>
-
----
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=drbarzaga&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=drbarzaga&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### ☕ Support My Work
-
-<div align="center">
-  <p>If you enjoy my projects or find my content helpful, consider supporting me — it keeps me coding more awesome stuff! 💛</p>
-  
   <a href="https://www.buymeacoffee.com/dayanperez" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
   </a>
-  <p style="font-size: 0.9em; color: gray;">Scan the QR to support directly 💛</p>
-  <img src="https://raw.githubusercontent.com/drbarzaga/drbarzaga/main/buymeacoffee-qr.png" alt="Buy Me a Coffee QR" width="150" style="border-radius: 10px; margin-top: 10px;" />
 </div>
-
-<p align="center"><i>“Building the web, one pixel at a time.”</i></p>
