@@ -19,9 +19,3 @@ JavaScript · TypeScript · HTML · CSS · React · Next.js · Shadcn · Tailwin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drbarzaga)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayan.perez9012@gmial.com)
 <img src="https://komarev.com/ghpvc/?username=drbarzaga&style=for-the-badge&color=blue" alt="Profile views"/>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/dayanperez" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
-  </a>
-</div>
